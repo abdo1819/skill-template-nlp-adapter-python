@@ -3,3 +3,4 @@ Flask[async]
 Python-DotEnv
 smskillsdk
 uvicorn
+pydantic-settings
